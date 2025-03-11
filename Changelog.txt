@@ -12,6 +12,7 @@
 -- Here is my Github Repositry :https://github.com/MubeenAmjad205/Dev-Shop-MB
 -- Here is the live URL : https://dev-shop-mb.vercel.app/
 -- Here is changelog URL : https://github.com/MubeenAmjad205/Sofrix-Report
+-- commit : https://github.com/MubeenAmjad205/Dev-Shop-MB/commit/435aa73287ecee1fb2e6d1eb6864f309ed9590d3
 
 ## March-11-2025
 -- Wroking on Ecommerence Website
@@ -20,3 +21,4 @@
 -- Here is my Github Repositry : https://github.com/MubeenAmjad205/Dev-Shop-MB
 -- Here is the live URL : https://dev-shop-mb.vercel.app/
 -- Here is changelog URL : https://github.com/MubeenAmjad205/Sofrix-Report
+-- commit: https://github.com/MubeenAmjad205/Dev-Shop-MB/commit/a6afe771d00d927f552333a34eb9db3c068fcf38
