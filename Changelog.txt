@@ -13,7 +13,7 @@
 -- Here is the live URL : https://dev-shop-mb.vercel.app/
 -- Here is changelog URL : https://github.com/MubeenAmjad205/Sofrix-Report
 
-## March-10-2025
+## March-11-2025
 -- Wroking on Ecommerence Website
 -- Reudx Store integrated
 -- Cart functionallity fully working
