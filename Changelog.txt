@@ -22,3 +22,13 @@
 -- Here is the live URL : https://dev-shop-mb.vercel.app/
 -- Here is changelog URL : https://github.com/MubeenAmjad205/Sofrix-Report
 -- commit: https://github.com/MubeenAmjad205/Dev-Shop-MB/commit/a6afe771d00d927f552333a34eb9db3c068fcf38
+
+## March-12-2025
+-- Wroking on Ecommerence Website
+-- Check out functionality with Shopify done 
+-- Collections from Shopify done.
+-- Collections filter on products done.
+-- Here is my Github Repositry : https://github.com/MubeenAmjad205/Dev-Shop-MB
+-- Here is the live URL : https://dev-shop-mb.vercel.app/
+-- Here is changelog URL : https://github.com/MubeenAmjad205/Sofrix-Report
+-- commit: https://github.com/MubeenAmjad205/Dev-Shop-MB/commit/4aece76debdebf53f64c3fa33ed2bd55586c2dbd
