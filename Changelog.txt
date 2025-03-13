@@ -32,3 +32,14 @@
 -- Here is the live URL : https://dev-shop-mb.vercel.app/
 -- Here is changelog URL : https://github.com/MubeenAmjad205/Sofrix-Report
 -- commit: https://github.com/MubeenAmjad205/Dev-Shop-MB/commit/4aece76debdebf53f64c3fa33ed2bd55586c2dbd
+
+## March-13-2025
+-- Wroking on Ecommerence Website
+-- Shopify Checkout integrated
+-- Shopify catagorie title and products integrated
+-- CMS contentfull integrated
+-- Defining contentful model and adding content
+-- Here is my Github Repositry : https://github.com/MubeenAmjad205/Dev-Shop-MB
+-- Here is the live URL : https://dev-shop-mb.vercel.app/
+-- Here is changelog URL : https://github.com/MubeenAmjad205/Sofrix-Report
+-- commit: https://github.com/MubeenAmjad205/Dev-Shop-MB/commit/dba7030f27101ba627409a66a7d1b3d012a4c2f1
