@@ -43,3 +43,13 @@
 -- Here is the live URL : https://dev-shop-mb.vercel.app/
 -- Here is changelog URL : https://github.com/MubeenAmjad205/Sofrix-Report
 -- commit: https://github.com/MubeenAmjad205/Dev-Shop-MB/commit/dba7030f27101ba627409a66a7d1b3d012a4c2f1
+
+## March-14-2025
+-- Wroking on Ecommerence Website
+-- Footer done by contentful 
+-- Pagination on products page
+-- CMS contentfull integrated
+-- Here is my Github Repositry : https://github.com/MubeenAmjad205/Dev-Shop-MB
+-- Here is the live URL : https://dev-shop-mb.vercel.app/
+-- Here is changelog URL : https://github.com/MubeenAmjad205/Sofrix-Report
+-- commit:https://github.com/MubeenAmjad205/Dev-Shop-MB/commit/5bf1ecdcbd71071eb0ad4ff7f8f6a38ef073444b
