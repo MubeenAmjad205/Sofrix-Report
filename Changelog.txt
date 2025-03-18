@@ -64,3 +64,14 @@
 -- Here is changelog URL : https://github.com/MubeenAmjad205/Sofrix-Report
 -- commit:https://github.com/MubeenAmjad205/Dev-Shop-MB/commit/390c2543625f14bec678eeb5a92de5a1702ff65c
 
+## March-18-2025
+-- Wroking on Ecommerence Website
+-- Blogs page done by contentful 
+-- Pagination on products page Styling issues fixed
+-- Application Completed 
+-- Working on improvements
+-- Here is my Github Repositry : https://github.com/MubeenAmjad205/Dev-Shop-MB
+-- Here is the live URL : https://dev-shop-mb.vercel.app/
+-- Here is changelog URL : https://github.com/MubeenAmjad205/Sofrix-Report
+-- commit:https://github.com/MubeenAmjad205/Dev-Shop-MB/commit/18c08202961c1d28177dbd05a52d0c72a7f40470
+
